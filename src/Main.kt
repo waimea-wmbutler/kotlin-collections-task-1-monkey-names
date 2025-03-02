@@ -19,10 +19,10 @@ fun main() {
     println()
 
     // Create a list to store monkey names
-    val monkeys = null  // FIXME!
+    val monkeys =
 
-    // Add in some test monkeys
-    monkeys.add("Dave")
+        // Add in some test monkeys
+        monkeys.add("Dave")
     monkeys.add("Jimmy")
     monkeys.add("Amy")
 
